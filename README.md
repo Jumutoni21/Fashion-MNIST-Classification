@@ -39,4 +39,4 @@ The CNN consists of:
 
 **Output**
 
-Predictions are made on two test images from the Fashion MNIST dataset.
+The model generates predictions on two test images from the Fashion MNIST dataset, providing insights into its classification accuracy.
