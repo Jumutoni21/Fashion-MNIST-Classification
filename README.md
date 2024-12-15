@@ -1,4 +1,4 @@
-Fashion-MNIST-Classification
+**Fashion-MNIST-Classification**
 
 **Project Overview**
 
@@ -9,33 +9,33 @@ The model architecture consists of six layers, designed to effectively learn and
 
 **Python**
 
-Ensure Python is installed (version 3.6 or higher).
+- Ensure Python is installed (version 3.6 or higher).
 
-Install the required libraries: pip install keras tensorflow numpy.
+- Install the required libraries: pip install keras tensorflow numpy.
 
-Run python index.py to train the model and make predictions.
+- Run python index.py to train the model and make predictions.
 
 **R**
 
-Install R and RStudio.
+- Install R and RStudio.
 
-Install the necessary libraries by running the following commands:
+- Install the necessary libraries by running the following commands:
 
-install.packages("keras")
+- install.packages("keras")
 
-install.packages("tensorflow")
+- install.packages("tensorflow")
 
-Open index.R in RStudio and run the code.
+- Open index.R in RStudio and run the code.
 
 **Code Explanation**
 
 The CNN consists of:
 
-Three Convolutional Layers with ReLU activation
+- Three Convolutional Layers with ReLU activation
 
-Two MaxPooling layers for down-sampling
+- Two MaxPooling layers for down-sampling
 
-A Dense layer followed by a final Softmax layer for classification
+- A Dense layer followed by a final Softmax layer for classification
 
 **Output**
 
